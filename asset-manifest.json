@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ema-john-single/static/css/main.75c4517e.css",
+    "main.js": "/ema-john-single/static/js/main.5431a643.js",
+    "static/js/787.c062af8f.chunk.js": "/ema-john-single/static/js/787.c062af8f.chunk.js",
+    "static/media/Logo.svg": "/ema-john-single/static/media/Logo.311dd846bc480af4fcd81826b6b793a8.svg",
+    "static/media/logo.svg": "/ema-john-single/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ema-john-single/index.html",
+    "main.75c4517e.css.map": "/ema-john-single/static/css/main.75c4517e.css.map",
+    "main.5431a643.js.map": "/ema-john-single/static/js/main.5431a643.js.map",
+    "787.c062af8f.chunk.js.map": "/ema-john-single/static/js/787.c062af8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c4517e.css",
+    "static/js/main.5431a643.js"
+  ]
+}
